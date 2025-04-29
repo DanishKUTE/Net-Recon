@@ -1,6 +1,6 @@
-# EliteNetCat
+# Net-REcon
 
-EliteNetCat is a powerful multi-tool for network operations including netcat-like functionality, port scanning, banner grabbing, HTTP server, DNS and WHOIS lookups, HTTP header grabbing, TCP proxy, and ICMP ping.
+NetREcon is a powerful multi-tool for network operations including netcat-like functionality, port scanning, banner grabbing, HTTP server, DNS and WHOIS lookups, HTTP header grabbing, TCP proxy, and ICMP ping.
 
 ## Features
 
