@@ -16,7 +16,7 @@ NetREcon is a powerful multi-tool for network operations including netcat-like f
 
 ## Usage
 
-Run `python elitenetcat.py -h` to see all available options and usage instructions.
+Run `python Net-REcon.py -h` to see all available options and usage instructions.
 
 ## Requirements
 
