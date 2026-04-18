@@ -275,7 +275,6 @@ def run_http_server(port):
     server_address = ('', port)
     httpd = HTTPServer(server_address, SimpleHTTPRequestHandler)
     try:
-        print(f"{python} ")
         print(f"{Fore.GREEN}[+] HTTP server running. Press Ctrl+C to stop.{Style.RESET_ALL}")
         httpd.serve_forever()
     except KeyboardInterrupt:
